@@ -1,0 +1,12 @@
+ begin end -- prueba
+read write identificador 2345 () ;,
+-- 8.44
+ := + - )( 23.66
+-- comentario 8877
+, ;
+
+//Calculadora
+y=1;
+z=10;
+x = x*y-30/2;
+print(x);
