@@ -73,7 +73,8 @@ typedef int YYSTYPE;
 # define YYSTYPE_IS_DECLARED 1
 #endif
 
-
+//hola
+//achante
 extern YYSTYPE yylval;
 
 
